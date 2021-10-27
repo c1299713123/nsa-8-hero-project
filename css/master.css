@@ -2,6 +2,9 @@
     width: 500px;
     position: relative;
    margin:auto;
+   border-style:dotted;
+    border-width: medium;
+    border-color: rebeccapurple;
 }
 
 body {
@@ -18,6 +21,12 @@ body {
     width: 500px;
 }
 
+#dreamworks {
+    width:100%;
+}
+#heroarch {
+    width: 100%;
+}
 
 
 
